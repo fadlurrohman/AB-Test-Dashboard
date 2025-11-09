@@ -1,4 +1,4 @@
-# Project 1 – Marketing A/B Test KPI Dashboard
+# Marketing A/B Test KPI Dashboard
 
 This project simulates Agoda-style performance marketing data and performs:
 - KPI calculation (CTR, CVR, CPC, CPA),
